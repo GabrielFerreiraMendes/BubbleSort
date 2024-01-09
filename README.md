@@ -1,18 +1,8 @@
-## Getting Started
+## Algoritmo de ordenação Bubble Sort
+Projeto desenvolvido, originalmente em C++, para projeto academico da disciplina estrutura de dados.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Funcionamento do Bubble Sort
+O Bubble sort é um algoritmo de ordenação simples e popular, mas menos eficiente em comparação com outras opções disponíveis. Ele funciona comparando e trocando elementos adjacentes até que a lista esteja ordenada. 
 
-## Folder Structure
+![image](https://github.com/GabrielFerreiraMendes/BubbleSort/assets/14356303/75152f77-8745-4984-945a-227759dec26b)
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).

@@ -1,5 +1,5 @@
 ## Algoritmo de ordenação Bubble Sort
-Projeto desenvolvido, originalmente em C++, para projeto academico da disciplina estrutura de dados.
+Algoritmo desenvolvido, originalmente em C++, para projeto academico da disciplina estrutura de dados.
 
 ## Funcionamento do Bubble Sort
 O Bubble sort é um algoritmo de ordenação simples e popular, mas menos eficiente em comparação com outras opções disponíveis. Ele funciona comparando e trocando elementos adjacentes até que a lista esteja ordenada. 
